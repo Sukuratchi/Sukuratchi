@@ -1,6 +1,4 @@
-# Hiya
-
-## Welcome to my github! <br> 
+# Hiya, welcome to my github! <br> 
 ### About me <br>
 I'm _Sukuratchi, usually shortened to "suku" or "scratch". <br>
 I like lots of things, curious about even more but unfortunately forever going to be bad at programming (probably :P). <br>
